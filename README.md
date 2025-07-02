@@ -36,6 +36,10 @@ ________________________________________
 •	Visual storytelling for executive-level presentation
 •	Domain understanding of the consumer goods industry
 
+_______________________________________________
+here is the presentation of project
+[consumer goods business analysis sql pdf](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/Consumer%20Goods%20Analysis-SQL.pdf)
+
 ---
 
 ### 📬 Connect with Me
