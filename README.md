@@ -37,9 +37,10 @@ ________________________________________
 •	Domain understanding of the consumer goods industry
 
 _______________________________________________
-here is the presentation of project
+here is the presentation of project :
 [consumer goods business analysis sql pdf](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/Consumer%20Goods%20Analysis-SQL.pdf)
-
+You can directly jump to sql queries
+[ad-hoc sql queries](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/ad_hoc%20Queries.sql)
 ---
 
 ### 📬 Connect with Me
