@@ -40,6 +40,6 @@ ________________________________________
 
 ### 📬 Connect with Me
 
-- 🔗 [View LinkedIn Post](https://www.linkedin.com/in/abhilashreddyanugu)
+- 🔗 [View LinkedIn Profile](https://www.linkedin.com/in/abhilashreddyanugu)
 - 💻 [My GitHub Projects](https://github.com/AnuguAbhilashreddy)
 
