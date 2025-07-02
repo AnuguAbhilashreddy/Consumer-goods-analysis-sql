@@ -1,7 +1,7 @@
 # Consumer-goods-analysis-sql
 AtliQ Hardwares SQL Business Analysis
 🚀 Project Overview
-This project is part of the Codebasics Resume Project Challenge #7, where I analyzed real-world business problems for an imaginary company, AtliQ Hardwares, using SQL.
+This project is part of the [Codebasics Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7), where I analyzed real-world business problems for an imaginary company, AtliQ Hardwares, using SQL.
 ________________________________________
 🏢 About the Company
 AtliQ Hardwares is a leading computer hardware producer in India, with a global presence in over 27 countries. To strengthen their analytics capabilities, the company launched a SQL challenge to evaluate potential hires based on both technical and soft skills.
