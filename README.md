@@ -40,6 +40,9 @@ _______________________________________________
 here is the presentation of project :
 [AtliQ hardwares consumer goods sql analysis ppt](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/Consumer%20Goods%20Insights.pptx)
 
+here is the project ppt in pdf:
+[atliq hardware consumer goods analysis pdf](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/Consumer%20Goods%20Analysis-SQL.pdf)
+
 You can directly jump to sql queries:
 [ad-hoc sql queries](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/ad_hoc%20Queries.sql)
 
