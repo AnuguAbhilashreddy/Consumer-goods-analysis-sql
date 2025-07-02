@@ -36,4 +36,10 @@ ________________________________________
 •	Visual storytelling for executive-level presentation
 •	Domain understanding of the consumer goods industry
 
-Connect with me : 🔗 Abhilash Reddy on LinkedIn
+---
+
+### 📬 Connect with Me
+
+- 🔗 [View LinkedIn Post](https://www.linkedin.com/in/abhilashreddyanugu)
+- 💻 [My GitHub Projects](https://github.com/AnuguAbhilashreddy)
+
