@@ -35,4 +35,5 @@ ________________________________________
 •	Structuring SQL logic to solve real-world business problems
 •	Visual storytelling for executive-level presentation
 •	Domain understanding of the consumer goods industry
+
 Connect with me : 🔗 Abhilash Reddy on LinkedIn
