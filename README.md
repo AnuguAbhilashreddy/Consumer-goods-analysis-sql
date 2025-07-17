@@ -1,49 +1,47 @@
 # Consumer-goods-analysis-sql
-AtliQ Hardwares SQL Business Analysis
-🚀 Project Overview
+## AtliQ Hardwares SQL Business Analysis
+## 🚀 Project Overview
 This project is part of the [Codebasics Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7), where I analyzed real-world business problems for an imaginary company, AtliQ Hardwares, using SQL.
 ________________________________________
-🏢 About the Company
+## 🏢 About the Company
 AtliQ Hardwares is a leading computer hardware producer in India, with a global presence in over 27 countries. To strengthen their analytics capabilities, the company launched a SQL challenge to evaluate potential hires based on both technical and soft skills.
 ________________________________________
-💼 Business Domain
+## 💼 Business Domain
 Industry: Consumer Goods
 Challenge: Address 10 ad-hoc business requests from the Analytics Director to support data-driven decision-making.
 ________________________________________
-🧰 Tools & Skills Used
+## 🧰 Tools & Skills Used
 •	MySQL – Joins, Subqueries, CTEs, Window Functions, Date-Time Functions
 •	Power BI Desktop All charts, visuals, and matrix tables used in the presentation were created using Power BI 
 •	Canva – Designed presentation slides for stakeholder communication
 ________________________________________
-📌 What I Did
+## 📌 What I Did
 •	Imported and explored the provided SQL database
 •	Wrote optimized queries to solve 10 specific business requests
 •	Created a Power BI dashboard to visualize the findings
 •	Designed a storytelling-based presentation to explain the insights
 ________________________________________
-
-
-📈 Key Business Insights Delivered
+## 📈 Key Business Insights Delivered
 •	Performance metrics by region and product
 •	Inventory and sales trends
 •	Top-selling products and customers
 •	Country-wise revenue breakdown
 •	Sales rep performance and customer segmentation
 ________________________________________
-🎯 Key Learnings
+## 🎯 Key Learnings
 •	Turning raw data into clear, actionable insights
 •	Structuring SQL logic to solve real-world business problems
 •	Visual storytelling for executive-level presentation
 •	Domain understanding of the consumer goods industry
 
 _______________________________________________
-here is the presentation of project :
+## here is the presentation of project :
 [AtliQ hardwares consumer goods sql analysis ppt](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/Consumer%20Goods%20Insights.pptx)
 
-here is the project ppt in pdf:
+## here is the project ppt in pdf:
 [atliq hardware consumer goods analysis pdf](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/Consumer%20Goods%20Analysis-SQL.pdf)
 
-You can directly jump to sql queries:
+## You can directly jump to sql queries:
 [ad-hoc sql queries](https://github.com/AnuguAbhilashreddy/Consumer-goods-analysis-sql/blob/main/ad_hoc%20Queries.sql)
 
 
